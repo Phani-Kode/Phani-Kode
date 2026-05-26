@@ -11,4 +11,4 @@ FPGA Design & Verification Engineer with 5+ years of industry experience in RTL 
 🛠️ **Tech stack:**
 SystemVerilog · Verilog · VHDL · UVM · SVA · Python · Vivado · Vitis HLS · QuestaSim
 
-📫 **Reach me:** phanikode0210@gmail.com
+📫 **Reach me:** kodephanibhargav@gmail.com
