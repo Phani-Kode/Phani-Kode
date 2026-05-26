@@ -1,16 +1,15 @@
-## Hi there 👋
+### Hi, I'm Phani 👋
 
-<!--
-**Phani-Kode/Phani-Kode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**FPGA Design & Verification Engineer** | M.S. Electrical Engineering @ Florida Tech
 
-Here are some ideas to get you started:
+I design and verify digital hardware — RTL, SoC integration, UVM testbenches,
+and FPGA acceleration on Xilinx Zynq UltraScale+.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔧 **Currently working on:**
+- 5-stage pipelined RISC-V RV32I core with UVM verification
+- AXI4 Verification IP and interconnect
+
+🛠️ **Tech stack:**
+SystemVerilog · Verilog · VHDL · UVM · SVA · Python · Vivado · Vitis HLS · QuestaSim
+
+📫 **Reach me:** phanikode0210@gmail.com
